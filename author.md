@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Author
+title: Resume
 ---
 
 # This is author!
