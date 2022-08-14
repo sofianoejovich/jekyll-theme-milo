@@ -1,9 +1,9 @@
 ---
-title: Jekyll post
+title: Test
 layout: post
 date: 2020-08-13
 description: A complete post.
-image: 3.jpg
+image: 2.jpg
 categories: ["Testing"]
 ---
 
